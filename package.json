@@ -1,0 +1,26 @@
+{
+  "name": "camparway_backend",
+  "version": "1.0.0",
+  "description": "waytrack backend project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErazorWhite/waytrack_backend.git"
+  },
+  "keywords": [
+    "waytrack",
+    "backend",
+    "back",
+    "node",
+    "ts"
+  ],
+  "author": "ErazorWhite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErazorWhite/waytrack_backend/issues"
+  },
+  "homepage": "https://github.com/ErazorWhite/waytrack_backend#readme"
+}
